@@ -13,7 +13,7 @@ A simple calculator application built with Flutter.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd flutter-calculator
+   cd flttr_cal
    ```
 3. Install dependencies:
    ```sh
